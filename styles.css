@@ -14,3 +14,22 @@
 .titleContainer {
 	background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&h=350");
 }
+
+.primaryButton {
+	margin:1rem;
+	padding:0.5rem;
+	width: 30%;
+	background-color: green;
+	border:none;
+	border-radius: 5px;
+	color:white;
+}
+
+.secondaryButton {
+	width:3rem;
+	height: 3rem;
+	border-radius: 100%;
+	background-color: red;
+	border:none;
+	color:white;
+}
